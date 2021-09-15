@@ -1,5 +1,5 @@
 body {
-  background-image: url('background.png');
+  background-image: url('background.jpg');
   background-repeat: no-repeat;
   background-size: 100% 700px;
   }
@@ -53,14 +53,6 @@ h5{
 
 img.card{
 	height:100%;
-}
-
-button{
-	width:170px;
-	height: 40px;
-	color:green;
-	font-weight:bold;
-	font-size: 15px;
 }
 
 h3{
